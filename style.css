@@ -1,13 +1,13 @@
 @font-face{
     font-family: 'texgyreadventor';
-    src: url('texgyreadventor/texgyreadventor-bold.otf');
+    src: url('fonts/texgyreadventor/texgyreadventor-bold.otf');
     font-weight: bold;
     font-style: normal;
     }
 
 @font-face{
     font-family: 'Rooney Sans';
-    src: url('Rooney_Sans/RooneySans-Regular.ttf');
+    src: url('fonts/Rooney_Sans/RooneySans-Regular.ttf');
     font-weight: normal;
     font-style: normal;
     }
