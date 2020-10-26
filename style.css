@@ -1,0 +1,69 @@
+@font-face{
+    font-family: 'texgyreadventor';
+    src: url('texgyreadventor/texgyreadventor-bold.otf');
+    font-weight: bold;
+    font-style: normal;
+    }
+
+@font-face{
+    font-family: 'Rooney Sans';
+    src: url('Rooney_Sans/RooneySans-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+
+body {
+   font-family: "texgyreadventor";
+   margin: 0;
+   padding: 0;
+}
+
+.logo-container {
+    width: 271px;
+    display: flex;
+}
+
+.logo-image-container{
+    width: 76px;
+}
+
+.logo-text-container{
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-left: 16px;
+    padding-top: 8px;
+    line-height: 30px;
+    letter-spacing: 2px;
+}
+
+.slogan{
+    margin-block-end: 0;
+    margin-block-start: 0;
+}
+
+.first-line {
+    font-size: 24px;
+    word-spacing: 3px;
+}
+
+.second-line{
+    font-size: 24px;
+    color: #00adff;
+    display: inline-block;
+}
+
+.second-line-second-part{
+    font-family: 'Rooney Sans';
+    font-size: 9px;
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    display: inline-block;
+    width: 80px;
+}
+
+
+.special-color{
+    color: #00adff;   
+}
